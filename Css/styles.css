@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Antique+Soft&display=swap');
+/* font-family: 'Zen Antique Soft', serif; */  
+h1 {
+    background-color:rgb(194, 150, 107);; 
+    text-align: center;  
+    font-style: italic
+} 
+h3 {
+    background-color: rgb(216, 169, 122);; 
+}
+p {
+    text-align: justify; 
+    font-size: 14px; 
+    line-height: 23px;  
+    text-align: center; 
+    
+}
+mark{
+    background-color:darkorange;
+} 
+strong{
+    background-color: darkviolet    ;
+} 
+abbr{
+    font-size: 30px; 
+    background-color: rgb(95, 95, 153);
+}
+
+title{
+    font-style: italic
+}
+body {
+     background-image: url(/CV/imagens/Background_03.jpg);
+    font-family:  sans-serif;
+    font-weight: 700;
+    font-family: 'Zen Antique Soft', serif; 
+
+}
+
+header{
+    background-color: rgb(216, 169, 122);
+    height: 500px; 
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    border-style: dotted; 
+    border-width: 3px;
+    border-color: green; 
+    margin: 20px 20px 20px 20px;
+    
+} 
+footer{
+    background-color: rgb(4, 20, 48);
+    height: 500px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    border-style: dotted; 
+    border-width: 3px;
+    border-color: rgb(25, 2, 87);
+    margin: 20px 20px 20px 20px;
+}
+section{
+    background-color: rgb(216, 169, 122);
+    height: 500px; /* ALTURA*/
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    border-style: dotted; 
+    border-width: 3px;
+    border-color: green;
+    margin: 20px 20px 20px 20px;
+}
+article{
+    background-color: rgb(231, 168, 109);
+    height: 500px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px; 
+    border-style: dotted; 
+    border-width: 3px;
+    border-color: green;
+    margin: 20px 20px 20px 20px;
+} 
+div #menu{
+    display: inline-block;
+} 
+
+#fa{
+    background-color: rgb(158, 126, 93);
+}
+
+#contatos {
+    text-decoration: none;
+} 
+
+
+div > p {
+    color: rgb(243, 243, 85); 
+    background-color: orangered;
+    background-size: repeat; 
+    font-size: 22px; 
+
+}
